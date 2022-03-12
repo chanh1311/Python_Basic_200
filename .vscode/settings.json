@@ -1,0 +1,13 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": null,
+    "editor.fontLigatures": true,
+    "editor.fontSize": 20,
+    "editor.fontFamily": " ' FiraCode Retina ' ",
+    "files.trimFinalNewlines": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorStyle": "block",
+    "editor.acceptSuggestionOnEnter": "off",
+    "python.formatting.provider": "black"
+}

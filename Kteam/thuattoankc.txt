@@ -1,0 +1,6 @@
+ 1 - x + x^2/2! - x^3/3! + … - x^(2n-1)/(2n-1)! + x^(2n)/(2n)! 
+
+1.phần 1 - x là cố định
+2.Có đổi dấu lần lượt(mũ chẵn là cộng mũ lẽ là trừ)
+
+

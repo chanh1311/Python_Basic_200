@@ -1,0 +1,6 @@
+tuple1 = ("Kteam", 2021, True)
+tuple2 = tuple([2021, "Kteam", False])
+print(tuple1)
+print(type(tuple1))
+print(tuple2)
+print(type(tuple2))
